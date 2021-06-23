@@ -398,8 +398,6 @@
 }
 @media (max-width: 450px) {
   .lSSlideOuter .lSPager.lSpg > li {
-    cursor: pointer;
     display: none;
-    padding: 0 5px;
   }
 }
