@@ -1,6 +1,6 @@
 # Responsive Dragon Ball Roster Slider
 ###  Responsive Dragon Ball Roster Slider
-
+## [See Live Preview](https://dragon-ball-roster.netlify.app/)
 - Responsive Dragon Ball Roster Slider built using HTML, CSS, JAVASCRIPT & jQuery.
 - Mobile Responsive touch friendly DBZ Roster Slider with description and images.
 - Lightslider used for the slider funcationality.
